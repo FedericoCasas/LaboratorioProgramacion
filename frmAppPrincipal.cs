@@ -173,7 +173,7 @@ namespace pryInventarioApp
             }
 
             int codigo = Convert.ToInt32(dgvProductos.CurrentRow.Cells["Codigo"].Value);
-            string rutaBD = "BDsem1.mdb"; // ruta del archico en bin/debug
+            string rutaBD = "BDsem1.mdb";
             string cadenaConexion = $"Provider=Microsoft.ACE.OLEDB.12.0;Data Source={rutaBD};";
 
             try
