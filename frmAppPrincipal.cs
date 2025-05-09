@@ -246,6 +246,7 @@ namespace pryInventarioApp
                 }
             }
         }
+        // Semana 4 - Generación de reporte TXT automático en Debug
 
         private void btnReporte_Click(object sender, EventArgs e)
         {
