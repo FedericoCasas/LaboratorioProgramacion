@@ -22,6 +22,8 @@ namespace pryInventarioApp
 
         public frmAppPrincipal()
         {
+            // Semana 1 - Conexión y estructura base
+
             InitializeComponent();
             CargarCategorias();
             btnPrueba.Enabled = false;
