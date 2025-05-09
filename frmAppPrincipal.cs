@@ -114,6 +114,7 @@ namespace pryInventarioApp
                 }
             }
         }
+        // Semana 3 - CRUD usando parámetros
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
