@@ -31,6 +31,7 @@ namespace pryInventarioApp
 
 
         }
+        // Semana 2 - ADO.NET con OleDbConnection
 
         private void ProbarConexion()
         {
